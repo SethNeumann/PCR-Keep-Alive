@@ -1,7 +1,8 @@
 title: Repo Name - the repo name must exactly match the project directory name as well as the names of the brd and sch files
-designer: John Plocher, Seth Neumann
-fabricated: Pick one of   yes, no
-fab_date: YYYY-MM
-status: Pick one of   experimental, broken, released, replaced, retired
-publish: Pick one of  yes, no
-tags: [MRCS, SPCoast, eagle]
+designer: Seth Neumann
+fabricated: yes
+fab_date: 2020-07
+status: experimental
+publish: yes
+tags: [MRCS, PCR]
+image_path:PCR-Keep-Alive-Graphic.png
