@@ -1,11 +1,10 @@
-First line: A short description of the project, used as a subtitle ot tagline
+A Quick and Simple PC Board Keep Alive
 
-Remaining lines: a verbose changelog of what makes this "git version" different from the last.
-Use this space (in Markdown format) to describe the context and details of the changes.
-This section should be 5 to 20 lines of interesting detail; each version tab in the project will 
-display this text to help the reader understand why this version is differnet...
+A Keep-Alive is a large capacitor, or string of capacitors that will keep a DCC-equipped locomotive running for a few seconds in the absence
+of power to get over dirty track or a dead frog.  They can be used with most decoders.
+Phil Edholm mentioned using a circuit found on the web instead of expensive offerings from decoder manufacturers
+He started with something like https://www.dccguy.com/?tag=keep-alive
+Note using a KA, other than the decoder manufacturers’, may void the decoder warranty
 
-The published project on the SPCoast.github.io website will
-include the relevant git commit messages as a terse, high level
-changelog, so don't replicate those messages here.
+
 
